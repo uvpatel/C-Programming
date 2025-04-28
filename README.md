@@ -1,4 +1,4 @@
-# <img src="./assets/c.jpg" alt="C Logo" width="50" height="50"> C Programming Hub <img src="./assets/c.jpg" alt="C Logo" width="50" height="50">
+#  <img src="./assets/c.jpg" alt="C Logo" width="50" height="50"> C Programming <img src="./assets/c.jpg" alt="C Logo" width="50" height="50">
 
 ![C Programming](https://img.shields.io/badge/Language-C-blue.svg?style=for-the-badge&logo=c)
 ![Contributions](https://img.shields.io/badge/Contributions-Welcome-brightgreen?style=for-the-badge&logo=github)
