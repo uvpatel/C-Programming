@@ -1,13 +1,13 @@
 #include <stdio.h>
 
-int main(){
+int main()
+{
     /*
     ▪ Different data types in C consume varying amounts of memory. For example, an int uses
 2 or 4 bytes, a char uses 1 byte, a float uses 4 bytes, and a double uses 8 bytes. The size of
 these data types can vary depending on the system architecture (32-bit vs. 64-bit).
 
     */
-
 
     /*
     Range calculator 24
@@ -26,8 +26,6 @@ these data types can vary depending on the system architecture (32-bit vs. 64-bi
     */
 
     // if the range is not perfect for that perticular region so it is called overflow of data type and it thorows a garbage value when we try to access it.
-    
-
 
     return 0;
 }
