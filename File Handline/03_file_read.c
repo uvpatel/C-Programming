@@ -4,10 +4,10 @@
 int main(){
     FILE *fp;
     char c;
-    fp = fopen("uvpate.txt","r");
+    fp = fopen("write.txt","r");
     if (fp == NULL)     
     {
-        printf("Failed to create a file.");
+        printf("Failed to read a file.");
         exit(1);
 
     }

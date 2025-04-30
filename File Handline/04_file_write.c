@@ -4,6 +4,7 @@
 int main(){
     FILE *fp;char c;
 
+    fp = fopen("write.txt","r");
     if (fp == NULL)
     {
         printf("Failed to create a file");
