@@ -53,12 +53,12 @@ The C Programming Hub is designed to make learning C simple and engaging. This r
 | `01_Fundamentals` | Learn variables, data types, and I/O. |
 | `02_Control_Structure` | Master if-else, loops, and switch cases. |
 | `03_Header_Files` | Explore modular programming with headers. |
-| `04_Arrays` | Work with arrays *(Coming Soon)*. |
-| `05_Strings` | Handle strings *(Coming Soon)*. |
-| `06_Functions` | Build reusable code *(Coming Soon)*. |
-| `07_Pointers` | Understand pointers *(Coming Soon)*. |
-| `08_Structures` | Use structs *(Coming Soon)*. |
-| `09_File_Handling` | Manage files *(Coming Soon)*. |
+| `04_Arrays` | Work with arrays . |
+| `05_Strings` | Handle strings . |
+| `06_Functions` | Build reusable code . |
+| `07_Pointers` | Understand pointers . |
+| `08_Structures` | Use structs . |
+| `09_File_Handling` | Manage files . |
 
 ---
 
@@ -99,12 +99,12 @@ gcc -o output hello_world.c
 - **Chapter 1**: Fundamentals – Variables, data types, and basic I/O.
 - **Chapter 2**: Control Structures – Loops and conditionals.
 - **Chapter 3**: Header Files – Modular code organization.
-- **Chapter 4**: Arrays – Store and manipulate lists *(Coming Soon)*.
-- **Chapter 5**: Strings – Text processing *(Coming Soon)*.
-- **Chapter 6**: Functions – Reusable code blocks *(Coming Soon)*.
-- **Chapter 7**: Pointers – Memory management *(Coming Soon)*.
-- **Chapter 8**: Structures – Custom data types *(Coming Soon)*.
-- **Chapter 9**: File Handling – Read/write files *(Coming Soon)*.
+- **Chapter 4**: Arrays – Store and manipulate lists.
+- **Chapter 5**: Strings – Text processing.
+- **Chapter 6**: Functions – Reusable code blocks.
+- **Chapter 7**: Pointers – Memory management.
+- **Chapter 8**: Structures – Custom data types.
+- **Chapter 9**: File Handling – Read/write files.
 
 ---
 
