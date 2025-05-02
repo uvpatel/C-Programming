@@ -53,12 +53,12 @@ The C Programming Hub is designed to make learning C simple and engaging. This r
 | `01_Fundamentals` | Learn variables, data types, and I/O. |
 | `02_Control_Structure` | Master if-else, loops, and switch cases. |
 | `03_Header_Files` | Explore modular programming with headers. |
-| `04_Arrays` | Work with arrays *(Coming Soon)*. |
-| `05_Strings` | Handle strings *(Coming Soon)*. |
-| `06_Functions` | Build reusable code *(Coming Soon)*. |
-| `07_Pointers` | Understand pointers *(Coming Soon)*. |
-| `08_Structures` | Use structs *(Coming Soon)*. |
-| `09_File_Handling` | Manage files *(Coming Soon)*. |
+| `04_Arrays` | Work with arrays . |
+| `05_Strings` | Handle strings . |
+| `06_Functions` | Build reusable code . |
+| `07_Pointers` | Understand pointers . |
+| `08_Structures` | Use structs . |
+| `09_File_Handling` | Manage files . |
 
 ---
 
