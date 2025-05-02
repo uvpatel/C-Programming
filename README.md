@@ -99,12 +99,12 @@ gcc -o output hello_world.c
 - **Chapter 1**: Fundamentals – Variables, data types, and basic I/O.
 - **Chapter 2**: Control Structures – Loops and conditionals.
 - **Chapter 3**: Header Files – Modular code organization.
-- **Chapter 4**: Arrays – Store and manipulate lists *(Coming Soon)*.
-- **Chapter 5**: Strings – Text processing *(Coming Soon)*.
-- **Chapter 6**: Functions – Reusable code blocks *(Coming Soon)*.
-- **Chapter 7**: Pointers – Memory management *(Coming Soon)*.
-- **Chapter 8**: Structures – Custom data types *(Coming Soon)*.
-- **Chapter 9**: File Handling – Read/write files *(Coming Soon)*.
+- **Chapter 4**: Arrays – Store and manipulate lists.
+- **Chapter 5**: Strings – Text processing.
+- **Chapter 6**: Functions – Reusable code blocks.
+- **Chapter 7**: Pointers – Memory management.
+- **Chapter 8**: Structures – Custom data types.
+- **Chapter 9**: File Handling – Read/write files.
 
 ---
 
