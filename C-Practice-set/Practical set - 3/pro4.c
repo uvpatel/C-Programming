@@ -16,7 +16,7 @@ int main(){
     int a = round(x);
     printf("The value of a is: %d\n", a); // Output: 5
 
-    int c = -11;
+    int c = 16;
     int b = fabs(c);
     int d;
     printf("The value of c is: "); // Output: 11
