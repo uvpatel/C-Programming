@@ -13,7 +13,7 @@ int main(){
 
     if (  userascii >97 &&userascii >65)
     {
-        
+        printf("the given character is an alphabet\n");
     }
     
     
