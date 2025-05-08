@@ -22,9 +22,9 @@ int main(){
     printf("The value of c is: "); // Output: 11
     scanf("%d", &c);
 
-    int d = sqrt(c);
+    float d = sqrt(c);
 
-    printf("The value of d is: %d\n", d); // Output: 3.32
+    printf("The value of d is: %f\n", d); // Output: 3.32
 
     int e;
     printf("Enter the value of e(power): ");
