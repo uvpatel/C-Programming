@@ -8,20 +8,22 @@ int main(){
     scanf("%f", &x);
 
     int y = ceil(x);
-    printf("The value of y is: %d\n", y); // Output: 5
+    printf("The value of y : %d\n ,using ceil", y); // Output: 5
 
     int z = floor(x);
-    printf("The value of z is: %d\n", z); // Output: 5
+    printf("The value of z is: %d\n, using floor", z); // Output: 5
 
     int a = round(x);
-    printf("The value of a is: %d\n", a); // Output: 5
+    printf("The value of a is: %d\n, using round function", a); // Output: 5
 
-    int c = 16;
-    int b = fabs(c);
-    int d;
-    printf("The value of c is: "); // Output: 11
-    scanf("%d", &c);
-
+    int y = -5;
+    int b = fabs(y);
+    printf("The value of y is using fabs: %d",b);
+    int z;
+    printf("The value of z is: "); // Output: 11
+    scanf("%d", &z);
+    
+    float c = 16;
     float d = sqrt(c);
 
     printf("The value of d is: %f\n", d); // Output: 3.32
