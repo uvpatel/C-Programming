@@ -2,6 +2,8 @@
 #include <math.h>
 int main(){
     int iterations;
+    printf("Enter the number of iterations: ");
+    scanf("%d", &iterations);
     for (int i = 0; i < iterations; i++)
     {
         
