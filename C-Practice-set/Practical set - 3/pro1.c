@@ -6,6 +6,6 @@ int main(){
     int eq = 3*(pow(x,3) + 2*pow(x,2) - 5*x + 1);
     printf("Enter the value of x: ");
     scanf("%d", &x);
-    
+    printf("The value of the equation is: %d",eq);
     return 0;
 }
