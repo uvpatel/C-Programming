@@ -1,10 +1,19 @@
 #include <stdio.h>
 
 int main(){
+    // This programme is give you understanding of operator associtivity and precedence.
+
+    // associativity - where to execution start -> right to left or left to right.
+
+    // precedence which operation will be first perform.
+
+    // input
     int x,y,z;
 
     printf("Enter three numbers: ");
     scanf("%d %d %d", &x, &y, &z);
+
+    // perform tasks.
 
     // A. x + y * z
 

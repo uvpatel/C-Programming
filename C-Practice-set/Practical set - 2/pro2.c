@@ -9,6 +9,11 @@ int main(){
     printf("The difference is: %.2f\n", num1 - num2);
     printf("The product is: %.2f\n", num1 * num2);
     printf("The quotient is: %.2f\n", num1 / num2);
+
+
+    // Note: We can't perform modulo operation on float value so here i use typecasting.
+
     printf("The remainder is: %.2f\n", (int)num1 % (int)num2); // Cast to int for modulus
+    
     return 0;
 }

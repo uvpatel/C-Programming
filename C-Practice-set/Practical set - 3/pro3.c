@@ -2,7 +2,7 @@
 #include <stdbool.h>
 
 int main(){
-    int x;
+    int x;  
     char ch;
     float f;
     double d;
@@ -10,10 +10,10 @@ int main(){
     long l;
     bool b;
 
-    printf("Size of int: %zu bytes\n", sizeof(x));
+    printf("Size of int: %zu bytes\n", sizeof(x));  // 4Bytes
     printf("Size of char: %zu bytes\n", sizeof(ch));
-    printf("Size of float: %zu bytes\n", sizeof(f));
-    printf("Size of double: %zu bytes\n", sizeof(d));
+    printf("Size of float: %zu bytes\n", sizeof(f)); // 4Bytes
+    printf("Size of double: %zu bytes\n", sizeof(d)); 
     printf("Size of short: %zu bytes\n", sizeof(s));
     printf("Size of long: %zu bytes\n", sizeof(l));
     printf("Size of bool: %zu bytes\n", sizeof(b));
