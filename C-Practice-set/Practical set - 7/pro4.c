@@ -1,14 +1,15 @@
 #include <stdio.h>
 
 int main(){
-    int attendance[3][5];
+    int StudentAttendence[3][5]; // 3 - Student (row), 5 -(Day) Coloumn.
 
+    // Input StudentAttendence Student 
     for (int  i = 0; i < 3; i++)
     {
         for (int j = 0; j < 5; j++)
         {
-            printf("Enter Student: ");
-            scanf("%d",&attendance[i][j]);
+            printf("Enter Daywise Student: ");
+            scanf("%d",&StudentAttendence[i][j]);
         }
         
     }

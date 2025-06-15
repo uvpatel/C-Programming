@@ -1,4 +1,5 @@
 #include <stdio.h>
+#include<string.h>
 
 int main(){
     int len;
@@ -7,13 +8,27 @@ int main(){
     char username[len];
 
     printf("Enter username: ");
-    scanf("%c",&username[len]);
+    scanf("%s",&username);
 
-    char userascii = (int)username;
+    
 
-    if (  userascii >97 &&userascii >65)
+
+    // Logic
+    // if (  userascii >97 && userascii >65)
+    // {
+    //     printf("the given character is an alphabet\n");
+    // }
+    
+    for (int i = 0; i < strlen(username); i++)
     {
-        printf("the given character is an alphabet\n");
+          if (username[i] >= 'A' && username[i] <= 'Z') {
+            printf("Uppercase letter found: %c\n", username[i]);
+        } else if (username[i] >= 'a' && username[i] <= 'z') {
+            printf("Lowercase letter found: %c\n", username[i]);
+        } else {
+            printf("Other character found: %c\n", username[i]);
+        }
+        
     }
     
     

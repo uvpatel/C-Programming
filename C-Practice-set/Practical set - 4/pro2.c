@@ -6,7 +6,7 @@ int main(){
     scanf("%d", &marks);
 
     if ( (marks>=100) || (marks >= 90)) {
-        printf("Grade: A\n");
+        printf("Congratulation 🎉 . You got Grade: A\n");
     } else if ((marks> 90) ||( marks >= 80)) {
         printf("Grade: B\n");
     } else if (   ( marks >80) || (marks >= 70)) {
@@ -17,7 +17,7 @@ int main(){
         printf("Grade: E\n");
     } else
     {
-        /* code */
+        printf("You should work hard!👍");
     }
     
     return 0;

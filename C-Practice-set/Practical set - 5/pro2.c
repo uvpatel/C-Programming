@@ -8,12 +8,12 @@ int main(){
 
     do
     {
+        int  rem = n % 10; // find the remender
+        n /= 10;    // update number.
+        rev_n = rev_n*10 + rem; // formula
 
-        int  rem = n % 10;
-        n /= 10;
-        rev_n = rev_n*10 + rem;
+    } while (n != 0);  // n > 0 while
 
-    } while (n != 0);
     printf("The reverse number is %d",rev_n);
     return 0;
 }

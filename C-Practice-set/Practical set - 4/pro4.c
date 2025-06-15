@@ -16,6 +16,7 @@ int main(){
         printf("Your Choice is Panipuri. Great Choice.");
         printf("The Price of the Pani-Puri 40 Ruppes.");
         bill += 40;
+
         // int order;
         // printf("Do You like to order anything else. From Manu.");
         // scanf("%d",&order);
@@ -72,5 +73,7 @@ int main(){
 
     printf("The Final Price is %f",bill);
 
+    // From this programme you are able to know Application of Switch Case it is prefered when you perform on some specific task like on which day of week . i will go to college or not? this kind of problem in which you know Parameters.use switch case over if else.
+    
     return 0;
 }

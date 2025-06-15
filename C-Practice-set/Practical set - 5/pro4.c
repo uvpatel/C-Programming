@@ -1,5 +1,6 @@
 #include <stdio.h>
 
+// Palindrome means => reverse number = actual number 
 int main(){
     
     int n,rem,rev_n = 0;

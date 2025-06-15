@@ -1,6 +1,7 @@
 #include <stdio.h>
 
 int main(){
+    // This is a generalise n can be anything.
     int n;
     printf("Enter number of students: ");
     scanf("%d", &n);

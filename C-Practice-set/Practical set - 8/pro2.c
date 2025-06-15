@@ -1,16 +1,5 @@
 #include <stdio.h>
 
-int main(){
-    int unit;
-    float rate;
-    printf("Enter units: ");
-    scanf("%d",&unit);
-    printf("Enter rate: ");
-    scanf("%f",&rate);
-    Electricity_Bill_generator(unit,rate);
-    return 0;
-}
-
 float Electricity_Bill_generator(int units,float rate_per_unit);
 float bill;
 float  Electricity_Bill_generator(int units,float rate_per_unit){
@@ -45,4 +34,14 @@ float  Electricity_Bill_generator(int units,float rate_per_unit){
     }
     printf("Electricity bill: %.2f\n", bill);
 
+}
+int main(){
+    int unit;
+    float rate;
+    printf("Enter units: ");
+    scanf("%d",&unit);
+    printf("Enter rate: ");
+    scanf("%f",&rate);
+    Electricity_Bill_generator(unit,rate);
+    return 0;
 }
